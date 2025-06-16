@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1001437342952-androidclient123456789.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxxxbond.divist",
+            "certificate_hash": "A4:89:ED:EF:1B:20:AF:2D:BA:C5:4D:FA:39:23:72:50:2F:75:6F:2F"
+          }
+        },
+        {
           "client_id": "1001437342952-rq61k41obm7t49pqtcps98vgo185qlld.apps.googleusercontent.com",
           "client_type": 3
         }
