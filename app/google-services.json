@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001437342952",
+    "project_id": "divist-app",
+    "storage_bucket": "divist-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001437342952:android:b9406e3da62621afde6d5d",
+        "android_client_info": {
+          "package_name": "com.maxxxbond.divist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001437342952-rq61k41obm7t49pqtcps98vgo185qlld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKgtn_X4d9SLCpCRJn-RSCYJEDGrZNlfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001437342952-rq61k41obm7t49pqtcps98vgo185qlld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
